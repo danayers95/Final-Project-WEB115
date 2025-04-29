@@ -38,7 +38,7 @@ function generateMealPlan() {
                     <tr><td>Breakfast</td><td>${breakfast}</td><td>${breakfast}</td><td>${breakfast}</td><td>${breakfast}</td><td>${breakfast}</td><td>${breakfast}</td><td>${breakfast}</td></tr>
                     <tr><td>Snack 1</td><td>${snack1}</td><td>${snack1}</td><td>${snack1}</td><td>${snack1}</td><td>${snack1}</td><td>${snack1}</td><td>${snack1}</td></tr>
                     <tr><td>Lunch</td><td>${lunch}</td><td>${lunch}</td><td>${lunch}</td><td>${lunch}</td><td>${lunch}</td><td>${lunch}</td><td>${lunch}</td></tr>
-                    <tr><td>Snack 2</td><td>${snack2}</td><td>${snack2}</td><td>${snack2}</td><td>${snack2}</td><td>${snack2}</td><td>${snack2}</td><td>${snack 2}</td></tr>
+                    <tr><td>Snack 2</td><td>${snack2}</td><td>${snack2}</td><td>${snack2}</td><td>${snack2}</td><td>${snack2}</td><td>${snack2}</td><td>${snack2}</td></tr>
                     <tr><td>Dinner</td><td>${dinner}</td><td>${dinner}</td><td>${dinner}</td><td>${dinner}</td><td>${dinner}</td><td>${dinner}</td><td>${dinner}</td></tr>
                 </table>
 
